@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayanshN/Daily-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/JayanshN/Daily-codes/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/JayanshN/Daily-codes/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/JayanshN/Daily-codes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JayanshN/Daily-codes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JayanshN/Daily-codes/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JayanshN/Daily-codes/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/JayanshN/Daily-codes/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/JayanshN/Daily-codes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JayanshN/Daily-codes/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/JayanshN/Daily-codes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
 ## Trie
 |  |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/JayanshN/Daily-codes/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/JayanshN/Daily-codes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
