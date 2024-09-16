@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/JayanshN/Daily-codes/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/JayanshN/Daily-codes/tree/master/0014-longest-common-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/1524-string-matching-in-an-array) |
 ## String Matching
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JayanshN/Daily-codes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
