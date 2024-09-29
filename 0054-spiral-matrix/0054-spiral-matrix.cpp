@@ -1,47 +1,57 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        // Check if the matrix is empty
-        if(matrix.empty()) return {};
-        
-        int m = matrix.size();       // Number of rows
-        int n = matrix[0].size();    // Number of columns
-        vector<int> ans;             // To store the result
-
-        int top = 0, bottom = m - 1;
-        int left = 0, right = n - 1;
-
-        // Traverse the matrix in spiral order
-        while (top <= bottom && left <= right) {
-            // Traverse from left to right across the top row
-            for (int i = left; i <= right; i++) {
-                ans.push_back(matrix[top][i]);
+        int d = matrix.size()-1;
+        int r = matrix[0].size()-1;
+        int u=0,l=0,i=0,j=0,n=0;
+        int a = (r+1)*(d+1);
+        vector<int> list;
+        while(true){
+            while(j<=r){
+                list.push_back(matrix[i][j]);
+                n++;
+                j++;
             }
-            top++; // Move the top boundary down
-
-            // Traverse from top to bottom along the right column
-            for (int i = top; i <= bottom; i++) {
-                ans.push_back(matrix[i][right]);
+            if(n==a){
+                break;
             }
-            right--; // Move the right boundary left
-
-            // Traverse from right to left across the bottom row (if applicable)
-            if (top <= bottom) {
-                for (int i = right; i >= left; i--) {
-                    ans.push_back(matrix[bottom][i]);
-                }
-                bottom--; // Move the bottom boundary up
+            u++;
+            j--;
+            i=u;
+            while(i<=d){
+                list.push_back(matrix[i][j]);
+                n++;
+                i++;
             }
-
-            // Traverse from bottom to top along the left column (if applicable)
-            if (left <= right) {
-                for (int i = bottom; i >= top; i--) {
-                    ans.push_back(matrix[i][left]);
-                }
-                left++; // Move the left boundary right
+            if(n==a){
+                break;
             }
+            r--;
+            i--;
+            j=r;
+            while(j>=l){
+                list.push_back(matrix[i][j]);
+                n++;
+                j--;
+            }
+            if(n==a){
+                break;
+            }
+            d--;
+            j++;
+            i=d;
+            while(i>=u){
+                list.push_back(matrix[i][j]);
+                n++;
+                i--;
+            }
+            if(n==a){
+                break;
+            }
+            l++;
+            i++;
+            j=l;
         }
-
-        return ans;
+        return list; 
     }
 };
