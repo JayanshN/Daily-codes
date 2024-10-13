@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JayanshN/Daily-codes/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/JayanshN/Daily-codes/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/JayanshN/Daily-codes/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1524-string-matching-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/1524-string-matching-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayanshN/Daily-codes/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/JayanshN/Daily-codes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/JayanshN/Daily-codes/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JayanshN/Daily-codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JayanshN/Daily-codes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Trie
 |  |
 | ------- |
@@ -141,4 +144,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/JayanshN/Daily-codes/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
