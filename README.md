@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JayanshN/Daily-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/JayanshN/Daily-codes/tree/master/0058-length-of-last-word) |
 | [1524-string-matching-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/1524-string-matching-in-an-array) |
+| [3195-separate-black-and-white-balls](https://github.com/JayanshN/Daily-codes/tree/master/3195-separate-black-and-white-balls) |
 ## String Matching
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JayanshN/Daily-codes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JayanshN/Daily-codes/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayanshN/Daily-codes/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3195-separate-black-and-white-balls](https://github.com/JayanshN/Daily-codes/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/JayanshN/Daily-codes/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/JayanshN/Daily-codes/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
