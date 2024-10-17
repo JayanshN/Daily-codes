@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JayanshN/Daily-codes/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/JayanshN/Daily-codes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
+| [0670-maximum-swap](https://github.com/JayanshN/Daily-codes/tree/master/0670-maximum-swap) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/JayanshN/Daily-codes/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/JayanshN/Daily-codes/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/JayanshN/Daily-codes/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/JayanshN/Daily-codes/tree/master/3195-separate-black-and-white-balls) |
