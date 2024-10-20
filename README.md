@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JayanshN/Daily-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/JayanshN/Daily-codes/tree/master/0058-length-of-last-word) |
+| [1197-parsing-a-boolean-expression](https://github.com/JayanshN/Daily-codes/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/JayanshN/Daily-codes/tree/master/1304-longest-happy-string) |
 | [1524-string-matching-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/1524-string-matching-in-an-array) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JayanshN/Daily-codes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/0020-valid-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/JayanshN/Daily-codes/tree/master/1197-parsing-a-boolean-expression) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -182,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/JayanshN/Daily-codes/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JayanshN/Daily-codes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
