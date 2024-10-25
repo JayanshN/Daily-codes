@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0792-binary-search](https://github.com/JayanshN/Daily-codes/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JayanshN/Daily-codes/tree/master/0907-koko-eating-bananas) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayanshN/Daily-codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JayanshN/Daily-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/1524-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JayanshN/Daily-codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/JayanshN/Daily-codes/tree/master/0058-length-of-last-word) |
 | [1197-parsing-a-boolean-expression](https://github.com/JayanshN/Daily-codes/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/JayanshN/Daily-codes/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayanshN/Daily-codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/1524-string-matching-in-an-array) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JayanshN/Daily-codes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JayanshN/Daily-codes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JayanshN/Daily-codes/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayanshN/Daily-codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Stack
 |  |
 | ------- |
@@ -234,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/JayanshN/Daily-codes/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayanshN/Daily-codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/JayanshN/Daily-codes/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
