@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/JayanshN/Daily-codes/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JayanshN/Daily-codes/tree/master/0907-koko-eating-bananas) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayanshN/Daily-codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/JayanshN/Daily-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JayanshN/Daily-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/1524-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JayanshN/Daily-codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/JayanshN/Daily-codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JayanshN/Daily-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/JayanshN/Daily-codes/tree/master/0152-maximum-product-subarray) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/JayanshN/Daily-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Simulation
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JayanshN/Daily-codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JayanshN/Daily-codes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/JayanshN/Daily-codes/tree/master/0073-set-matrix-zeroes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/JayanshN/Daily-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Prefix Sum
 |  |
 | ------- |
