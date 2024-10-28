@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JayanshN/Daily-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/1524-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JayanshN/Daily-codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/JayanshN/Daily-codes/tree/master/1646-kth-missing-positive-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JayanshN/Daily-codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayanshN/Daily-codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JayanshN/Daily-codes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/JayanshN/Daily-codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JayanshN/Daily-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JayanshN/Daily-codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/JayanshN/Daily-codes/tree/master/1646-kth-missing-positive-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
