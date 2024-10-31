@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JayanshN/Daily-codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayanshN/Daily-codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JayanshN/Daily-codes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/JayanshN/Daily-codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/JayanshN/Daily-codes/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JayanshN/Daily-codes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/JayanshN/Daily-codes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2554-minimum-total-distance-traveled](https://github.com/JayanshN/Daily-codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/JayanshN/Daily-codes/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Trie
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/JayanshN/Daily-codes/tree/master/0152-maximum-product-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JayanshN/Daily-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/JayanshN/Daily-codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/JayanshN/Daily-codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JayanshN/Daily-codes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
