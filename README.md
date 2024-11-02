@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/1524-string-matching-in-an-array) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JayanshN/Daily-codes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JayanshN/Daily-codes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/JayanshN/Daily-codes/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/JayanshN/Daily-codes/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/JayanshN/Daily-codes/tree/master/3195-separate-black-and-white-balls) |
 ## String Matching
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JayanshN/Daily-codes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/JayanshN/Daily-codes/tree/master/0670-maximum-swap) |
+| [2032-largest-odd-number-in-string](https://github.com/JayanshN/Daily-codes/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/JayanshN/Daily-codes/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/JayanshN/Daily-codes/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/JayanshN/Daily-codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2032-largest-odd-number-in-string](https://github.com/JayanshN/Daily-codes/tree/master/2032-largest-odd-number-in-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/JayanshN/Daily-codes/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/JayanshN/Daily-codes/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
