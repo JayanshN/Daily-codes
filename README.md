@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/1524-string-matching-in-an-array) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JayanshN/Daily-codes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JayanshN/Daily-codes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/JayanshN/Daily-codes/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/JayanshN/Daily-codes/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JayanshN/Daily-codes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/JayanshN/Daily-codes/tree/master/1197-parsing-a-boolean-expression) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
