@@ -1,21 +1,26 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        unordered_map<char,int> mp;
-        multimap<int,char> smp;
-        string res ="";
-
-        for(auto ch : s){
-            mp[ch]++;
+        //hash map to get frequency
+        unordered_map<char,int> freqMap;
+        for(char c:s){
+            freqMap[c]++;
         }
-
-        for(auto ch : mp){
-            smp.insert({ch.second, ch.first});
+        //map - int, char
+        vector<pair<int,char>> freqVec;
+        for(auto& entry:freqMap){
+            freqVec.push_back({entry.second,entry.first});
         }
+        // sort(freqVec.begin(), freqVec.end(), [](pair<int, char>& a, pair<int, char>& b) {
+        //     return a.first > b.first;  // Sort by frequency in descending order
+        // });
+        sort(freqVec.begin(), freqVec.end());
 
-        for(auto it = smp.rbegin(); it != smp.rend(); ++it){
-            res += string(it->first,it->second);
+        string result;
+        for(auto it = freqVec.rbegin(); it != freqVec.rend(); ++it){
+            result+=string(it->first,it->second);
         }
-        return res;
+        return result;
+
     }
 };
