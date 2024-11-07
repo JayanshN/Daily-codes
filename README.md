@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/JayanshN/Daily-codes/tree/master/2047-find-a-peak-element-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JayanshN/Daily-codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JayanshN/Daily-codes/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JayanshN/Daily-codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JayanshN/Daily-codes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/JayanshN/Daily-codes/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/2586-longest-square-streak-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JayanshN/Daily-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JayanshN/Daily-codes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JayanshN/Daily-codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/JayanshN/Daily-codes/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Two Pointers
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/JayanshN/Daily-codes/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JayanshN/Daily-codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JayanshN/Daily-codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JayanshN/Daily-codes/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JayanshN/Daily-codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JayanshN/Daily-codes/tree/master/0229-majority-element-ii) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JayanshN/Daily-codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
