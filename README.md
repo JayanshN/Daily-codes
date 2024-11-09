@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JayanshN/Daily-codes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JayanshN/Daily-codes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/JayanshN/Daily-codes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/JayanshN/Daily-codes/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/JayanshN/Daily-codes/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JayanshN/Daily-codes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JayanshN/Daily-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JayanshN/Daily-codes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/JayanshN/Daily-codes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JayanshN/Daily-codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/JayanshN/Daily-codes/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JayanshN/Daily-codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JayanshN/Daily-codes/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/JayanshN/Daily-codes/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/JayanshN/Daily-codes/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JayanshN/Daily-codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Dynamic Programming
 |  |
