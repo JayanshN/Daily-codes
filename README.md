@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JayanshN/Daily-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0792-binary-search](https://github.com/JayanshN/Daily-codes/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/JayanshN/Daily-codes/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/JayanshN/Daily-codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayanshN/Daily-codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JayanshN/Daily-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/JayanshN/Daily-codes/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/JayanshN/Daily-codes/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/JayanshN/Daily-codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JayanshN/Daily-codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/JayanshN/Daily-codes/tree/master/0560-subarray-sum-equals-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/JayanshN/Daily-codes/tree/master/1940-maximum-xor-for-each-query) |
 ## Greedy
 |  |
@@ -289,12 +292,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JayanshN/Daily-codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JayanshN/Daily-codes/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/JayanshN/Daily-codes/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/JayanshN/Daily-codes/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Backtracking
@@ -346,4 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/JayanshN/Daily-codes/tree/master/2716-prime-subtraction-operation) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
