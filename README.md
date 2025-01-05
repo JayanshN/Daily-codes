@@ -361,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/JayanshN/Daily-codes/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
