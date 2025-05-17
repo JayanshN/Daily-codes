@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JayanshN/Daily-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0792-binary-search](https://github.com/JayanshN/Daily-codes/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/JayanshN/Daily-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/JayanshN/Daily-codes/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/JayanshN/Daily-codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JayanshN/Daily-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/JayanshN/Daily-codes/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/JayanshN/Daily-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/JayanshN/Daily-codes/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/JayanshN/Daily-codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
