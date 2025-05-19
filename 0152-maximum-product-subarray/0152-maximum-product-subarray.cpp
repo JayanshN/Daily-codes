@@ -3,7 +3,6 @@ public:
     int maxProduct(vector<int>& nums) {
         int n = nums.size();
         int maxi = INT_MIN;
-        int prod1 = nums[0] , prod2 = nums[0] ;
         int pre = 1;
         int suf = 1;
         for(int i = 0 ; i <   n ; i++)
