@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/JayanshN/Daily-codes/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JayanshN/Daily-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JayanshN/Daily-codes/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/JayanshN/Daily-codes/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/JayanshN/Daily-codes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JayanshN/Daily-codes/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/JayanshN/Daily-codes/tree/master/0209-minimum-size-subarray-sum) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/JayanshN/Daily-codes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JayanshN/Daily-codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JayanshN/Daily-codes/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/JayanshN/Daily-codes/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/JayanshN/Daily-codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JayanshN/Daily-codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JayanshN/Daily-codes/tree/master/0242-valid-anagram) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/JayanshN/Daily-codes/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/JayanshN/Daily-codes/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
 |  |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/JayanshN/Daily-codes/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JayanshN/Daily-codes/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/JayanshN/Daily-codes/tree/master/0908-middle-of-the-linked-list) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/JayanshN/Daily-codes/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
