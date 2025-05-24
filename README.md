@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/JayanshN/Daily-codes/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/JayanshN/Daily-codes/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/JayanshN/Daily-codes/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -412,4 +413,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/JayanshN/Daily-codes/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/JayanshN/Daily-codes/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/JayanshN/Daily-codes/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/JayanshN/Daily-codes/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
