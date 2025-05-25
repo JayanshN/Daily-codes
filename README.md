@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/JayanshN/Daily-codes/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/JayanshN/Daily-codes/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/JayanshN/Daily-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/JayanshN/Daily-codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JayanshN/Daily-codes/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/JayanshN/Daily-codes/tree/master/0937-online-stock-span) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JayanshN/Daily-codes/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/JayanshN/Daily-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JayanshN/Daily-codes/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/JayanshN/Daily-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/JayanshN/Daily-codes/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
