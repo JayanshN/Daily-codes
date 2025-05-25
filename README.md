@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JayanshN/Daily-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JayanshN/Daily-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0792-binary-search](https://github.com/JayanshN/Daily-codes/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/JayanshN/Daily-codes/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JayanshN/Daily-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/JayanshN/Daily-codes/tree/master/0907-koko-eating-bananas) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JayanshN/Daily-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JayanshN/Daily-codes/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/JayanshN/Daily-codes/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayanshN/Daily-codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/JayanshN/Daily-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/JayanshN/Daily-codes/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JayanshN/Daily-codes/tree/master/0237-delete-node-in-a-linked-list) |
+| [0860-design-circular-queue](https://github.com/JayanshN/Daily-codes/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/JayanshN/Daily-codes/tree/master/0908-middle-of-the-linked-list) |
 ## Radix Sort
 |  |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JayanshN/Daily-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JayanshN/Daily-codes/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/JayanshN/Daily-codes/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/JayanshN/Daily-codes/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
