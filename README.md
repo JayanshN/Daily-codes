@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JayanshN/Daily-codes/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/JayanshN/Daily-codes/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/JayanshN/Daily-codes/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/JayanshN/Daily-codes/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/JayanshN/Daily-codes/tree/master/0547-number-of-provinces) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JayanshN/Daily-codes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/JayanshN/Daily-codes/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/JayanshN/Daily-codes/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/JayanshN/Daily-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JayanshN/Daily-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JayanshN/Daily-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/JayanshN/Daily-codes/tree/master/0547-number-of-provinces) |
 | [0988-flip-equivalent-binary-trees](https://github.com/JayanshN/Daily-codes/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayanshN/Daily-codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JayanshN/Daily-codes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -465,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JayanshN/Daily-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JayanshN/Daily-codes/tree/master/0784-insert-into-a-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/JayanshN/Daily-codes/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
