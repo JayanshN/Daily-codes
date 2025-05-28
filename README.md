@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JayanshN/Daily-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/JayanshN/Daily-codes/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/JayanshN/Daily-codes/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/JayanshN/Daily-codes/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/JayanshN/Daily-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JayanshN/Daily-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JayanshN/Daily-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/JayanshN/Daily-codes/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JayanshN/Daily-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/JayanshN/Daily-codes/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JayanshN/Daily-codes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/JayanshN/Daily-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JayanshN/Daily-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JayanshN/Daily-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/JayanshN/Daily-codes/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JayanshN/Daily-codes/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/JayanshN/Daily-codes/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JayanshN/Daily-codes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/JayanshN/Daily-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JayanshN/Daily-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/JayanshN/Daily-codes/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/JayanshN/Daily-codes/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/JayanshN/Daily-codes/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayanshN/Daily-codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/JayanshN/Daily-codes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -479,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/JayanshN/Daily-codes/tree/master/0547-number-of-provinces) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/JayanshN/Daily-codes/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
