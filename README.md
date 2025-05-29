@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/JayanshN/Daily-codes/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/JayanshN/Daily-codes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JayanshN/Daily-codes/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/JayanshN/Daily-codes/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/JayanshN/Daily-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/JayanshN/Daily-codes/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JayanshN/Daily-codes/tree/master/0240-search-a-2d-matrix-ii) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/JayanshN/Daily-codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JayanshN/Daily-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/JayanshN/Daily-codes/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/JayanshN/Daily-codes/tree/master/0198-house-robber) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JayanshN/Daily-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/JayanshN/Daily-codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/JayanshN/Daily-codes/tree/master/2554-minimum-total-distance-traveled) |
