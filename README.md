@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/JayanshN/Daily-codes/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/JayanshN/Daily-codes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/JayanshN/Daily-codes/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/JayanshN/Daily-codes/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/JayanshN/Daily-codes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JayanshN/Daily-codes/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/JayanshN/Daily-codes/tree/master/0670-maximum-swap) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JayanshN/Daily-codes/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/JayanshN/Daily-codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JayanshN/Daily-codes/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/JayanshN/Daily-codes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JayanshN/Daily-codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JayanshN/Daily-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/JayanshN/Daily-codes/tree/master/0152-maximum-product-subarray) |
@@ -495,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/JayanshN/Daily-codes/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JayanshN/Daily-codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
